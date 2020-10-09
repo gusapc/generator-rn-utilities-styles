@@ -1,0 +1,19 @@
+{
+  "name": "generator-rn-utilities-styles",
+  "version": "1.0.0",
+  "description": "generator-rn-utilities-styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusapc/generator-rn-utilities-styles.git"
+  },
+  "author": "gusapc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusapc/generator-rn-utilities-styles/issues"
+  },
+  "homepage": "https://github.com/gusapc/generator-rn-utilities-styles#readme"
+}
